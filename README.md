@@ -17,7 +17,7 @@ Requirements
 
 Repository Duplication
 
-	git clone 
+	git clone https://github.com/Motazy6/hotel-management.git
 
 
 
