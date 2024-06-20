@@ -9,10 +9,15 @@ This storage system hosts a Spring Boot program designed to handle hotel managem
 Initiation Steps
 
 Follow these guidelines to have a copy of the program for development and testing purposes on your local computer.
+
 Requirements
+
   •	Java 17
+  
   •	Maven
+  
   •	Docker
+
 
 
 Repository Duplication
